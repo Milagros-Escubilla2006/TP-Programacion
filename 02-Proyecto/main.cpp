@@ -7,6 +7,7 @@ using namespace std;
 using namespace std;
 
 int main() {
+	
     char c;
     int opcion; 
     int anio; 
